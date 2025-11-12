@@ -41,7 +41,6 @@
 
 ###
 
-![pptk7's Stats](https://github-readme-stats.vercel.app/api?username=wildflowerlol&theme=nord&show_icons=true&hide_border=true&count_private=false)
-![pptk7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildflowerlol&theme=nord&hide_border=true)
+[![pptk7's stat](https://github-readme-stats.vercel.app/api?username=pptk7)](https://github.com/pptk7e/github-readme-stats)
 
 ###
