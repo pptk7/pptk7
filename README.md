@@ -1,3 +1,8 @@
+<div align="center">
+ <img src="welcome to my journey.png" /></div>
+</div>
+
+###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
