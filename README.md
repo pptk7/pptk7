@@ -40,6 +40,6 @@
 </div>
 
 ###
-![pptk7's stat](https://github-readme-stats.vercel.app/api?username=pptk7&theme=cobalt)
+![pptk7's stat](https://github-readme-stats.vercel.app/api?username=pptk7&theme=cobalt&icons=true)
 
 ###
